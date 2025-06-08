@@ -8,6 +8,15 @@ Here is a detailed `README.md` file for your **DataExplorer** Streamlit app:
 
 ---
 
+## Live Demo
+
+You can access the live DataExplorer app online at:
+[https://dataexplorer-s.streamlit.app/](https://dataexplorer-s.streamlit.app/)
+
+Feel free to try out the features directly on the web without any local setup.
+
+---
+
 ## 🚀 Features
 
 ### 📁 Data Upload
